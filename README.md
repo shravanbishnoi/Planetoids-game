@@ -1,5 +1,5 @@
 # Planetoids Game
-Welcome to Planetoids – a space-themed arcade game built with Python. The game involves navigating a spaceship to dodge or destroy asteroids while scoring points. This project demonstrates Python's object-oriented programming (OOP) capabilities, along with basic game mechanics and user interaction.
+Welcome to **Planetoids** – a space-themed arcade game built with Python. The game involves navigating a spaceship to dodge or destroy asteroids while scoring points. This project demonstrates Python's object-oriented programming (OOP) capabilities, along with basic game mechanics and user interaction.
 
 ## Table of Contents
 - Overview
@@ -26,8 +26,8 @@ Before running the Planetoids game, make sure you have the following installed:
 To set up the Planetoids game, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/your-username/planetoids-game.git`
-`cd planetoids-game`
+`git clone https://github.com/shravanbishnoi/Planetoids-game/`
+`cd Planetoids-game/Planetoids`
 
 2. Install the required packages:
 `pip install kivy`
@@ -36,7 +36,7 @@ Note: This game uses the Kivy library for its graphical interface. Make sure Kiv
 ## Usage
 To play the Planetoids game:
 1. Ensure you're in the project directory:
-`cd planetoids-game`
+`cd Planetoids-game/Planetoids`
 
 3. Run the __main__.py file to start the game:
 `python __main__.py`
