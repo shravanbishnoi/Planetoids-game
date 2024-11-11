@@ -25,8 +25,8 @@ Before running the Planetoids game, make sure you have the following installed:
 ## Installation
 To set up the Planetoids game, follow these steps:
 
-1. Clone the repository:
-`git clone https://github.com/your-username/planetoids-game.git`
+1. Clone the repository:\n
+`git clone https://github.com/your-username/planetoids-game.git`\n
 `cd planetoids-game`
 
 2. Install the required packages:
