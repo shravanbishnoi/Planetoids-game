@@ -12,8 +12,8 @@ Welcome to Planetoids – a space-themed arcade game built with Python. The game
 The Planetoids Game is a fun, engaging game where the player controls a spaceship navigating through space filled with asteroids. The objective is to dodge or destroy these asteroids while maintaining control over the spaceship and maximizing your score. Built using the Kivy library, the game provides a smooth and responsive interface that runs on multiple platforms.
 
 ## Features
-- Spaceship Controls: Navigate your spaceship using keyboard or touch controls.
-- Asteroid Field: Randomly generated asteroids spawn in the game area, increasing in difficulty as time progresses.
+- Spaceship Controls: Navigate your spaceship using keyboard controls.
+- Asteroid Field: Randomly generated asteroids spawn in the game area.
 - Score Tracking: The game keeps track of your score, which increases as you survive or destroy asteroids.
 - Collision Detection: The game detects collisions between the spaceship and asteroids, ending the game upon impact.
 
@@ -26,8 +26,8 @@ Before running the Planetoids game, make sure you have the following installed:
 To set up the Planetoids game, follow these steps:
 
 1. Clone the repository:
-`git clone https://github.com/your-username/planetoids-game.git
-cd planetoids-game`
+`git clone https://github.com/your-username/planetoids-game.git`
+`cd planetoids-game`
 
 2. Install the required packages:
 `pip install kivy`
